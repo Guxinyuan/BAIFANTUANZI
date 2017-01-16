@@ -1,0 +1,167 @@
+* {
+  margin: 0 auto;
+  padding: 0;
+  box-sizing: border-box; }
+#logo{
+	text-align: center;
+}
+#header{
+	width: 800px;
+	height: 35px;
+	margin: 0 auto;
+	background-color: #00479d;
+}
+#tuijian{
+	width: 800px;
+	height: 400px;
+	margin: 0 auto;
+	background-color: white;
+}
+.zuo{
+	float: left;
+	width: 40%;
+	height: 100%;
+	background-color: #bfbfbf;
+}
+.you{
+	float: right;
+	width: 480px;
+	height: 400px;
+	background-color: white;
+}
+#shang{
+	height: 20%;
+	background-color: #898989;
+}
+#xia{
+	height: 80%;
+	background-color: white;
+}
+#footer{
+	margin: 0 auto;
+	width: 800px;
+	height: 100px;
+	background-color: #00479d;
+}
+.one{
+	float: left;
+	width: 16.5%;
+	text-align: center;
+    line-height: 35px;
+    color: white;
+}
+.two{
+	float: left;
+	width: 16.5%；
+	text-align: center;
+	line-height: 35px;
+	color: white;
+}
+.three{
+	float: left;
+	width: 16.5%;
+	text-align: center;
+	line-height: 35px;
+	color: white;
+}
+.four{
+	float: left;
+	width: 16.5%;
+	text-align: center;
+	line-height: 35px;
+	color: white;s
+}
+.five{
+	float: left;
+	width: 16.5%;
+	text-align: center;
+	line-height: 35px;
+	color: white;
+}
+.six{
+	float: left;
+	width: 17.5%;
+	text-align: center;
+	line-height: 35px;
+	color: white;
+}
+#seven{
+	list-style: none;
+	width: 800px;
+}
+.xinwenkuaixun{
+	margin-top: 20px;
+	margin-left: 20px;
+	margin-bottom: 20px;
+}
+.zuo li{
+	width: 270px;
+}
+.tebietuijian{
+	color: white;
+	text-align: center;
+	line-height: 80px;
+}
+.tuijian1{
+	width: 160px;
+	height: 160px;
+	float: left;
+}
+.tuijian2{
+	width: 160px;
+	height: 160px;
+	float: left;
+}
+.tuijian3{
+	width: 160px;
+	height: 160px;
+	float: left;
+}
+.tuijian4{
+	width: 160px;
+	height: 160px;
+	float: left;
+}
+.tuijian5{
+	width: 160px;
+	height: 160px;
+	float: left;
+}
+.tuijian6{
+	width: 160px;
+	height: 160px;
+	float: left;
+}
+#yejiao{
+	color: white;
+	text-align: center;
+	line-height: 45px;
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
